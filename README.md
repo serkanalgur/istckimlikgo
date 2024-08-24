@@ -1,3 +1,5 @@
+[![PkgGoDev](https://pkg.go.dev/badge/serkanalgur/istckimlikgo)](https://pkg.go.dev/github.com/serkanalgur/istckimlikgo) [![Go Report Card](https://goreportcard.com/badge/github.com/serkanalgur/istckimlikgo)](https://goreportcard.com/report/github.com/serkanalgur/istckimlikgo) 
+
 # Turkish ID Number Validator
 Turkish ID Number Validator for Go
 

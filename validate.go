@@ -6,7 +6,7 @@ import (
 	"strings"
 )
 
-func validate(tckimlik string) (valid bool, err error) {
+func Validate(tckimlik string) (valid bool, err error) {
 
 	if tckimlik[0] == '0' {
 		err = errors.New("turkish ID can not start with a zero")

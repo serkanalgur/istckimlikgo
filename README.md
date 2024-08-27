@@ -22,7 +22,7 @@ import (
 
 func main(){
 
-    valid, err := istckimlikgo.validate("11111111111")
+    valid, err := istckimlikgo.Validate("11111111111")
 
     if err != nil {
         log.Fatal(err)
